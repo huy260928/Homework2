@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\BTApp\bin\Debug\BTApp.exe.config
+C:\Users\ASUS\source\repos\BTApp\bin\Debug\BTApp.exe
+C:\Users\ASUS\source\repos\BTApp\bin\Debug\BTApp.pdb
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.Form1.resources
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.exe
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.pdb
+C:\Users\ASUS\source\repos\BTApp\obj\Debug\BTApp.exe.config
