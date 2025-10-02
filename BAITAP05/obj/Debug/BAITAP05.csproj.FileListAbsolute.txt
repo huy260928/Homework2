@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\BAITAP05\bin\Debug\BAITAP05.exe.config
+C:\Users\ASUS\source\repos\BAITAP05\bin\Debug\BAITAP05.exe
+C:\Users\ASUS\source\repos\BAITAP05\bin\Debug\BAITAP05.pdb
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.Form1.resources
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.exe
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.pdb
+C:\Users\ASUS\source\repos\BAITAP05\obj\Debug\BAITAP05.exe.config
