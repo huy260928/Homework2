@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\form1.exe.config
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\form1.exe
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\form1.pdb
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\form1\form1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.frmsinhvien.resources
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.frmQuanLyKhoa.resources
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.frmTimKiem.resources
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.exe
+C:\Users\Administrator\source\repos\form1\form1\obj\Debug\form1.pdb
